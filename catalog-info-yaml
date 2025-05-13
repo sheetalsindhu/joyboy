@@ -9,13 +9,13 @@ metadata:
   description: "WebViewer UI sits on top of WebViewer, a powerful JavaScript-based PDF Library that's part of the Apryse PDF SDK. Built in React, WebViewer UI provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project."
 
   labels:
-    tier: frontend, backend
+    tier: frontend-backend
     language: javascript 
 
   tags:
     - frontend
-    - SCSS
-    - TypeScript
+    - scss
+    - typescript
     - pdf-viewer
 
 
@@ -27,9 +27,9 @@ metadata:
 
 
   links:
-    - url: https://mogambo.vercel.app/
-    title: Webviewer UI
-   icon: viewer
+    -  url: https://mogambo.vercel.app/
+       title: Webviewer UI
+       icon: viewer
 
 
 spec:
@@ -40,5 +40,4 @@ spec:
   owner: group:zoopsign-service-owners
 
   system: zoopsign
-
 
